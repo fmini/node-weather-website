@@ -14,6 +14,7 @@ body {
 .main-content {
   flex-grow: 1;
   background-color: #eeeeee;
+  margin-top: 16px;
   padding: 16px;
   border-radius: 1%;
 }
